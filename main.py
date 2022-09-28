@@ -11,6 +11,7 @@ if yn == "Yes" or yn == "yes" or yn == "yup" or yn == "Yup":
   choice = input("For which plant will you like to find it's estimated growth for the year? ")
 else:
   print("Sorry this website cannot help you as of right now.")
+  exit()
 #ask what plant they want to find out about
 
 
